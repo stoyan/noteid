@@ -4,7 +4,7 @@ An app to learn to identify notes on the treble and bass clefs
 
 ## Try it out
 
-[Triads practice tool](https://www.onlinemusictools.com/noteid/)
+[Note identification practice tool](https://www.onlinemusictools.com/noteid/)
 
 ## Built with...
 
